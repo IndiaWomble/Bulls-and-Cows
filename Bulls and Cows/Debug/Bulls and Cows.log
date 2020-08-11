@@ -1,0 +1,4 @@
+﻿  Bulls and Cows.cpp
+d:\games\c++ games\bulls and cows\bulls and cows\bulls and cows.cpp(257): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\games\c++ games\bulls and cows\bulls and cows\bulls and cows.cpp(599): warning C4715: 'number::cow_g_s': not all control paths return a value
+  Bulls and Cows.vcxproj -> D:\Games\C++ games\Bulls and Cows\Debug\Bulls and Cows.exe
